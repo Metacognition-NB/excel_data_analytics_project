@@ -1,5 +1,7 @@
 # Excel Data Analytics Portfolio
 
+![Dashboard Preview](Images/1_Salary_Dashboard_Final_Dashboard.gif)
+
 Two Excel projects built while completing Luke Barousse's free 
 "Excel for Data Analytics" course, applying PivotTables, Power Query, 
 Power Pivot, DAX, and interactive dashboards to a real-world dataset of 
